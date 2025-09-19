@@ -1,0 +1,9 @@
+{
+	"id": "tTvsJsfMENG6pJB",
+	"json": "{\"id\":\"tTvsJsfMENG6pJB\",\"url\":\"https://demo.processwire.com/cities/atlanta/marriott-marquis/\",\"loadedUrl\":\"https://demo.processwire.com/cities/atlanta/marriott-marquis/\",\"uniqueKey\":\"https://demo.processwire.com/cities/atlanta/marriott-marquis\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-09-19T02:47:39.897Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://demo.processwire.com/cities/atlanta/marriott-marquis",
+	"url": "https://demo.processwire.com/cities/atlanta/marriott-marquis/"
+}

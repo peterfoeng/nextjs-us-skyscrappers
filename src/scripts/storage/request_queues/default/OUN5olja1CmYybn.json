@@ -1,0 +1,9 @@
+{
+	"id": "OUN5olja1CmYybn",
+	"json": "{\"id\":\"OUN5olja1CmYybn\",\"url\":\"https://demo.processwire.com/cities/amherst/coolidge-hall/\",\"loadedUrl\":\"https://demo.processwire.com/cities/amherst/coolidge-hall/\",\"uniqueKey\":\"https://demo.processwire.com/cities/amherst/coolidge-hall\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-09-19T02:47:39.741Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://demo.processwire.com/cities/amherst/coolidge-hall",
+	"url": "https://demo.processwire.com/cities/amherst/coolidge-hall/"
+}

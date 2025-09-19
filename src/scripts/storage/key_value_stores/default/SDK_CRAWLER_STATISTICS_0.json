@@ -1,68 +1,27 @@
 {
-  "requestsFinished": 0,
-  "requestsFailed": 1,
-  "requestsRetries": 1,
-  "requestsFailedPerMinute": 16,
-  "requestsFinishedPerMinute": 0,
-  "requestMinDurationMillis": null,
-  "requestMaxDurationMillis": 0,
-  "requestTotalFailedDurationMillis": 684,
-  "requestTotalFinishedDurationMillis": 0,
-  "crawlerStartedAt": "2025-09-19T01:23:07.378Z",
-  "crawlerFinishedAt": "2025-09-19T01:23:11.053Z",
-  "statsPersistedAt": "2025-09-19T01:23:11.054Z",
-  "crawlerRuntimeMillis": 3708,
-  "crawlerLastStartTimestamp": 1758244987346,
+  "requestsFinished": 2,
+  "requestsFailed": 0,
+  "requestsRetries": 0,
+  "requestsFailedPerMinute": 0,
+  "requestsFinishedPerMinute": 66,
+  "requestMinDurationMillis": 1571,
+  "requestMaxDurationMillis": 1685,
+  "requestTotalFailedDurationMillis": 0,
+  "requestTotalFinishedDurationMillis": 3256,
+  "crawlerStartedAt": "2025-09-19T02:47:38.128Z",
+  "crawlerFinishedAt": "2025-09-19T02:47:39.919Z",
+  "statsPersistedAt": "2025-09-19T02:47:39.919Z",
+  "crawlerRuntimeMillis": 1809,
+  "crawlerLastStartTimestamp": 1758250058110,
   "requestRetryHistogram": [
-    null,
-    null,
-    null,
-    1
+    2
   ],
   "statsId": 0,
-  "requestAvgFailedDurationMillis": 684,
-  "requestAvgFinishedDurationMillis": null,
-  "requestTotalDurationMillis": 684,
-  "requestsTotal": 1,
+  "requestAvgFailedDurationMillis": null,
+  "requestAvgFinishedDurationMillis": 1628,
+  "requestTotalDurationMillis": 3256,
+  "requestsTotal": 2,
   "requestsWithStatusCode": {},
-  "errors": {
-    "internal:streams/destroy:88:12": {
-      "ERR_GOT_REQUEST_ERROR": {
-        "RequestError": {
-          "Requested origin https://crawlee.dev does not match server https://crawlee.dev:443": {
-            "count": 1
-          }
-        }
-      }
-    },
-    "/Users/peterfoeng/Development/nextjs-us-skyscappers/node_modules/http2-wrapper/source/agent.js:563:27": {
-      "missing error code": {
-        "Error": {
-          "Requested origin https://crawlee.dev does not match server https://crawlee.dev:443": {
-            "count": 1
-          }
-        }
-      }
-    }
-  },
-  "retryErrors": {
-    "internal:streams/destroy:88:12": {
-      "ERR_GOT_REQUEST_ERROR": {
-        "RequestError": {
-          "Requested origin https://crawlee.dev does not match server https://crawlee.dev:443": {
-            "count": 3
-          }
-        }
-      }
-    },
-    "/Users/peterfoeng/Development/nextjs-us-skyscappers/node_modules/http2-wrapper/source/agent.js:563:27": {
-      "missing error code": {
-        "Error": {
-          "Requested origin https://crawlee.dev does not match server https://crawlee.dev:443": {
-            "count": 3
-          }
-        }
-      }
-    }
-  }
+  "errors": {},
+  "retryErrors": {}
 }
